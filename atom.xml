@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://dylandesign.com</id>
+    <id>http://dylandu.com</id>
     <title>DylanDu</title>
-    <updated>2020-08-17T05:28:58.278Z</updated>
+    <updated>2020-08-17T05:29:32.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://dylandesign.com"/>
-    <link rel="self" href="http://dylandesign.com/atom.xml"/>
+    <link rel="alternate" href="http://dylandu.com"/>
+    <link rel="self" href="http://dylandu.com/atom.xml"/>
     <subtitle>Hi there！ I’m Dylan!
 I am a product designer who is passionate about solving problems.</subtitle>
-    <logo>http://dylandesign.com/images/avatar.png</logo>
-    <icon>http://dylandesign.com/favicon.ico</icon>
+    <logo>http://dylandu.com/images/avatar.png</logo>
+    <icon>http://dylandu.com/favicon.ico</icon>
     <rights>All rights reserved 2020, DylanDu</rights>
     <entry>
         <title type="html"><![CDATA[Hello Word!]]></title>
-        <id>http://dylandesign.com/hello-word/</id>
-        <link href="http://dylandesign.com/hello-word/">
+        <id>http://dylandu.com/hello-word/</id>
+        <link href="http://dylandu.com/hello-word/">
         </link>
         <updated>2020-08-17T04:58:05.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
