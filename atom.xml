@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://My portfolio.com</id>
+    <id>https://dylandu.cool</id>
     <title>DylanDu</title>
-    <updated>2020-08-18T05:40:26.199Z</updated>
+    <updated>2020-08-19T01:49:32.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://My portfolio.com"/>
-    <link rel="self" href="http://My portfolio.com/atom.xml"/>
+    <link rel="alternate" href="https://dylandu.cool"/>
+    <link rel="self" href="https://dylandu.cool/atom.xml"/>
     <subtitle>Hi there！ I’m Dylan!
 I am a product designer who is passionate about solving problems.</subtitle>
-    <logo>http://My portfolio.com/images/avatar.png</logo>
-    <icon>http://My portfolio.com/favicon.ico</icon>
+    <logo>https://dylandu.cool/images/avatar.png</logo>
+    <icon>https://dylandu.cool/favicon.ico</icon>
     <rights>All rights reserved 2020, DylanDu</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Word!]]></title>
-        <id>http://My portfolio.com/hello-word/</id>
-        <link href="http://My portfolio.com/hello-word/">
+        <title type="html"><![CDATA[个人简介]]></title>
+        <id>https://dylandu.cool/hello-word/</id>
+        <link href="https://dylandu.cool/hello-word/">
         </link>
         <updated>2020-08-17T04:58:05.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
 <p>Hi there！ I’m Dylan!<br>
-I am a product designer who is passionate about solving problems.</p>
+I am a product designer who is passionate about solving problems.<img src="https://dylandu.cool/post-images/1597731220943.PNG" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
