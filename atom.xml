@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://dylandu.cool</id>
+    <id>http://dylandu.cool</id>
     <title>DylanDu</title>
-    <updated>2020-08-19T01:49:32.465Z</updated>
+    <updated>2020-08-20T04:39:41.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://dylandu.cool"/>
-    <link rel="self" href="https://dylandu.cool/atom.xml"/>
+    <link rel="alternate" href="http://dylandu.cool"/>
+    <link rel="self" href="http://dylandu.cool/atom.xml"/>
     <subtitle>Hi there！ I’m Dylan!
 I am a product designer who is passionate about solving problems.</subtitle>
-    <logo>https://dylandu.cool/images/avatar.png</logo>
-    <icon>https://dylandu.cool/favicon.ico</icon>
+    <logo>http://dylandu.cool/images/avatar.png</logo>
+    <icon>http://dylandu.cool/favicon.ico</icon>
     <rights>All rights reserved 2020, DylanDu</rights>
     <entry>
-        <title type="html"><![CDATA[个人简介]]></title>
-        <id>https://dylandu.cool/hello-word/</id>
-        <link href="https://dylandu.cool/hello-word/">
+        <title type="html"><![CDATA[2020你还在用ps做UI？]]></title>
+        <id>http://dylandu.cool/hello-word/</id>
+        <link href="http://dylandu.cool/hello-word/">
         </link>
         <updated>2020-08-17T04:58:05.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<p>Hi there！ I’m Dylan!<br>
-I am a product designer who is passionate about solving problems.<img src="https://dylandu.cool/post-images/1597731220943.PNG" alt="" loading="lazy"></p>
+        <content type="html"><![CDATA[<p>大家好,我是Dylan!<br>
+今年注定是个不平凡的一年，疫情问题袭击全球。转眼就进入了下半年。<br>
+今天想讲分享的主题是设计工具的选择，因为我发现我身边还有许多人还在使用原始的ps做UI，</p>
 ]]></content>
     </entry>
 </feed>
