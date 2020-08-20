@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.sanwan.ltd</id>
+    <id>http://sanwan.ltd</id>
     <title>DylanDu</title>
-    <updated>2020-08-20T07:56:20.514Z</updated>
+    <updated>2020-08-20T07:58:01.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://www.sanwan.ltd"/>
-    <link rel="self" href="http://www.sanwan.ltd/atom.xml"/>
+    <link rel="alternate" href="http://sanwan.ltd"/>
+    <link rel="self" href="http://sanwan.ltd/atom.xml"/>
     <subtitle>Hi there！ I’m Dylan!
 I am a product designer who is passionate about solving problems.</subtitle>
-    <logo>http://www.sanwan.ltd/images/avatar.png</logo>
-    <icon>http://www.sanwan.ltd/favicon.ico</icon>
+    <logo>http://sanwan.ltd/images/avatar.png</logo>
+    <icon>http://sanwan.ltd/favicon.ico</icon>
     <rights>All rights reserved 2020, DylanDu</rights>
     <entry>
         <title type="html"><![CDATA[2020你还在用ps做UI？]]></title>
-        <id>http://www.sanwan.ltd/hello-word/</id>
-        <link href="http://www.sanwan.ltd/hello-word/">
+        <id>http://sanwan.ltd/hello-word/</id>
+        <link href="http://sanwan.ltd/hello-word/">
         </link>
         <updated>2020-08-17T04:58:05.000Z</updated>
         <content type="html"><![CDATA[<p>大家好,我是Dylan!<br>
